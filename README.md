@@ -1,6 +1,6 @@
 ### Hi there 👋 I.m Rajan
 <hr>
-
+ <center><b>A Passionate Full Stack Developer from India</b></center>
 
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Reactjs
