@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs**,**Next.js**,**NodeJs**
 
 - 👯 I’m looking to collaborate on **Hackathon**
 
