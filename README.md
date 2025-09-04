@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=11F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Rajan;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Always+Learning+%F0%9F%93%9A;Let’s+Build+Something+Amazing!" /> 
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajangithub0&label=Profile%20views&color=0e75b6&style=flat" alt="rajangithub0" /> </p>
 
