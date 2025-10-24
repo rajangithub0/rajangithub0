@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajangithub0&show_icons=true&locale=en" alt="rajangithub0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajangithub0&" alt="rajangithub0" /></p>
+
+<h3 align="left">Quote to Remember</h3>
+
+<p>"Consistency is better than intensity. Build daily!"</p>
+
+<h2 align="center>✨ Thanks for visiting my profile! ✨</h2>
