@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning**Next.js**.
+- 🌱 I’m currently learning **Next.js**.
 
 - 👯 I’m looking to collaborate on **Hackathon**
 
