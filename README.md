@@ -6,17 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajangithub0&label=Profile%20views&color=0e75b6&style=flat" alt="rajangithub0" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m completed **MERN Stack Development**
 
 - 🌱 I’m currently learning **Next.js**.
 
 - 👯 I’m looking to collaborate on **Hackathon**
 
-- 💬 Ask me about **JavaScript| HTML |CSS**
+- 💬 Ask me about **JavaScript | HTML | CSS | React**
 
-- 📫 How to reach me **rajan.rana6@gmail.com**
-
-- ⚡ Fun fact **I love creating content**
+- 📫 How to reach me **rajan.rana6@gmail.com** **7696423060** **9914233667**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
